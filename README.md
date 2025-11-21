@@ -1,1 +1,3 @@
-# AI_Code_Assistant
+# Build your local AI Coding Assistant
+
+## WIP
